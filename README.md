@@ -1,4 +1,4 @@
-Here is the production-ready `README.md` file covering all 8 competition tasks, architectural benchmarks, run instructions, and your live Vercel deployment link.
+Here is the complete, raw Markdown code ready to paste directly into your root `README.md` file.
 
 ```markdown
 # RiskFlow: Institutional Loan Performance Intelligence & Contagion Engine
@@ -8,7 +8,7 @@ Here is the production-ready `README.md` file covering all 8 competition tasks, 
 [![Python ML Engine](https://img.shields.io/badge/FastAPI-ML%20%26%20Survival-green?style=for-the-badge&logo=python&logoColor=white)](http://127.0.0.1:8000/docs)
 [![LPU Inference](https://img.shields.io/badge/Groq%20LPU-Llama--3.3--70B-orange?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
 
-> **Live Production URL:** [https://riskflowai-three.vercel.app/](https://riskflowai-three.vercel.app/)
+> **Live Deployment:** [https://riskflowai-three.vercel.app/](https://riskflowai-three.vercel.app/)
 
 ---
 
@@ -207,14 +207,17 @@ The frontend and API gateway are deployed live on Vercel:
 ## 9. Contributors
 
 * **Veedushi Jain** — *Lead ML & System Architect*
-  * Designed the end-to-end multi-stage ML pipeline (LightGBM default classification, CoxPH multi-horizon survival modeling, and 9D Isolation Forest behavioral anomaly discovery).
-  * Built the frontend command center, force-directed contagion graph visualizer, and UI state architecture.
-  * Formulated the model governance card, time-aware OOT validation splits, and Groq LPU zero-hallucination prompt schema.
+* Designed the end-to-end multi-stage ML pipeline (LightGBM default classification, CoxPH multi-horizon survival modeling, and 9D Isolation Forest behavioral anomaly discovery).
+* Built the frontend command center, force-directed contagion graph visualizer, and UI state architecture.
+* Formulated the model governance card, time-aware OOT validation splits, and Groq LPU zero-hallucination prompt schema.
+
 
 * **Ishaan Mittal** — *Lead Backend & Distributed Systems Engineer*
-  * Architected the backend API gateway, Express microservices, and FastAPI integration pipelines for real-time ML inference.
-  * Engineered the automated loan tape ingestion engine, schema normalization rules, and missingness/outlier scoring algorithms.
-  * Implemented the graph traversal contagion engine, macro stress-testing transmission matrices, and linear programming containment optimization algorithms.
+* Architected the backend API gateway, Express microservices, and FastAPI integration pipelines for real-time ML inference.
+* Engineered the automated loan tape ingestion engine, schema normalization rules, and missingness/outlier scoring algorithms.
+* Implemented the graph traversal contagion engine, macro stress-testing transmission matrices, and linear programming containment optimization algorithms.
+
+
 
 ```
 
