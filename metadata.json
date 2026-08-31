@@ -1,0 +1,6 @@
+{
+  "name": "RiskFlow",
+  "description": "AI-powered financial risk propagation and containment intelligence platform for institutional risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
